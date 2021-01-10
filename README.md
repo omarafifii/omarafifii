@@ -5,6 +5,8 @@ I am Omar, I am a software developer / data analyst.
 I use python, javascript and java.
 I am interested in contributing to open source projects and working as a freelancer.
 
+<br>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarafifii&show_icons=true&theme=tokyonight&line_height=52" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarafifii&count_private=true&theme=tokyonight&line_height=52">
