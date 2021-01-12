@@ -20,11 +20,12 @@ I am interested in contributing to open source projects and working as a freelan
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarafifii&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
+<!--
 ---
 
 
 ### :zap: Recent Activity
-
+-->
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
